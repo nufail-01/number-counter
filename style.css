@@ -1,0 +1,82 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Make html and body take full screen height */
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+/* Body styling */
+body {
+    background-color: black;
+    color: #fff;
+}
+
+/* Main container styling */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+}
+
+/* Counter number styling */
+h2 {
+    font-size: 5rem;
+}
+
+/* Increase button styling */
+#inc {
+    text-transform: capitalize;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    background-color: rgb(200, 31, 31);
+    color: white;
+    font-size: 2rem;
+    border: none;
+}
+
+/* Decrease button styling */
+#dec {
+    text-transform: capitalize;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    background-color: rgb(48, 31, 200);
+    color: white;
+    font-size: 2rem;
+    border: none;
+}
+
+/* Add spacing between buttons */
+.btn button {
+    margin: 0.5rem;
+}
+
+/* Responsive Design for screens 768px and below */
+@media screen and (max-width: 768px) {
+
+    /* Keep spacing from top */
+    .container {
+        margin-top: 200px;
+    }
+
+    /* Center buttons properly */
+    .btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* Smaller button size for mobile */
+    #inc,
+    #dec {
+        padding: 1.5rem;
+        font-size: 1.5rem;
+    }
+}
