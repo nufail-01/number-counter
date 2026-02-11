@@ -45,3 +45,5 @@ This project is open-source and free to use for learning purposes.
 🔗 [GitHub Repository](https://github.com/nufail-01/number-counter)
 
 ---
+
+Made with ❤️ and self-learning
