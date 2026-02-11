@@ -40,5 +40,10 @@ This project is open-source and free to use for learning purposes.
 
 ---
 
-### ✨ Author
-Your Name
+---
+
+## 📂 Source Code
+
+🔗 [GitHub Repository](https://github.com/nufail-01/number-counter)
+
+---
