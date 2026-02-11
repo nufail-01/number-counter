@@ -3,7 +3,7 @@
 
 ## 🌐 Live Demo
 
-[![Website Preview](assets/images/numbercounter.png)](https://nufail-01.github.io/number-counter/)
+[![Website Preview](assets/images/number-counter.png)](https://nufail-01.github.io/number-counter/)
 
 ---
 
