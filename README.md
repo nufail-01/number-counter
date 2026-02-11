@@ -1,5 +1,12 @@
+# 🧮 Number Counter – Dynamic UI with JavaScript
+
+A minimal and responsive **counter application** built using **HTML, CSS, and JavaScript**.  
+This project demonstrates core front-end concepts such as **DOM selection, event listeners, state management, and real-time UI updates**.
+
+Through this project, I strengthened my understanding of how JavaScript interacts with the DOM to create interactive web experiences.
 
 ---
+
 
 ## 🌐 Live Demo
 
